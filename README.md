@@ -2,7 +2,7 @@
 Part of my master's degree. Used to initialize stepper motor Motion king 23HS6430 driver TMC5160 for use in STEP/DIR mode with the use of Arduino Nano. 
 After this initialization motor's axis should be hard to rotate with the hand as current now passes though motor's coils.
 
-Check the tables below on instructrucions how to connect the boards. (They are in written in Croatian language)
+Check the tables below on instructrucions how to connect the boards. (They are in written in a Croatian language)
 
 | Opis	         |               TMC5160	|    Arduino Nano|
 |-----------------|-----------------------|----------------|
