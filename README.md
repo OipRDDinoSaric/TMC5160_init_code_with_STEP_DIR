@@ -1,4 +1,4 @@
-# TMC5160_init_code_with_STEP_DIR
+# TMC5160 stepper motor initialization code
 Part of my master's degree. Used to initialize stepper motor Motion king 23HS6430 driver TMC5160 for use in STEP/DIR mode with the use of Arduino Nano. 
 After this initialization motor's axis should be hard to rotate with the hand as current now passes though motor's coils.
 
